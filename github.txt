@@ -1,0 +1,14 @@
+git init
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO
+$ git init
+Initialized empty Git repository in C:/xampp/htdocs/DAO/.git/
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$ git remote add origin https://github.com/nataliamsilva/cursophp7-dao.git
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$ git pull origin master
+fatal: Couldn't find remote ref master
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$
