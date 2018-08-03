@@ -12,3 +12,35 @@ fatal: Couldn't find remote ref master
 
 NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
 $
+
+
+=============================================
+
+//Utilizar depois que fechar e precisar abrir novamente
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$ git add --all
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$ git commit -m "iniciamos o projeto"
+[master (root-commit) 243369d] iniciamos o projeto
+ 6 files changed, 113 insertions(+)
+ create mode 100644 class/sql.php
+ create mode 100644 class/usuario.php
+ create mode 100644 config.php
+ create mode 100644 github.txt
+ create mode 100644 index.php
+ create mode 100644 sql.php
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$ git push origin master
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1.25 KiB | 142.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0)
+To https://github.com/nataliamsilva/cursophp7-dao.git
+ * [new branch]      master -> master
+
+NataliaM@Natalia MINGW64 /c/xampp/htdocs/DAO (master)
+$
